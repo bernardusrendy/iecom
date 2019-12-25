@@ -1,2 +1,3 @@
 Adam Khoo trading lecture
 Laplace transform for time independent transfer function
+GMM for clustering characterization of stocks issuer companies and enterprises
