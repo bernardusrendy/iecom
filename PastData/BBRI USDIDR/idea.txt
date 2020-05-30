@@ -1,0 +1,10 @@
+Macroeconomy Fundamental idea for IHSG:
+
+Emas dunia -> (signifikan, berbanding lurus)
+DJIA -> (signifikan, berbanding lurus)
+Nikkei 225 -> (signifikan, berbanding lurus)
+USD/IDR-> (signifikan, berbanding lurus) Untuk dollar yang kuat, ihsg juga kuat. Kurs dollar melemah dan dapat diprediksi akan meningkat di masa mendatang, maka masuk dollar, IHSG turun 
+the fed interest rate -> negative to IHSG if decreased (berbanding lurus)
+inflation -> (berbanding lurus) semakin tinggi inflasi akan menyebabkan harga barang-barang naik, penurunan daya beli sehingga ihsg naik
+BI Rate-> (berbanding terbalik) Kenaikan BI rate meningkatkan beban perusahaan untuk memenuhi kewajiban ke BI, laba turun, sehingga IHSG turun karena investor tidak tertarik
+COVID ticker -> Analysis needed
